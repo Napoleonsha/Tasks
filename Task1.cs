@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Tasks
+namespace Lessons
 {
-    internal class Program
+    internal class Task1
     {
         static void Main(string[] args)
         {
@@ -16,10 +12,9 @@ namespace Tasks
             bool firstNumValid = float.TryParse(Console.ReadLine(), out firstNumber);
 
             Console.WriteLine("Введите второе число");
-            bool secondNumValid = float.TryParse(Console.ReadLine(), out secondNumber);
+            bool secondNumValid = float.TryParse(Console.ReadLine(), out secondNumber b);
 
-            if (firstNumValid && secondNumValid)
-            {
+            if (firstNumValid && secondNumValid) {
                 result = (firstNumber + secondNumber) / 2;
                 Console.WriteLine("Среднее арифметическое ваших чисел: " + result);
             }

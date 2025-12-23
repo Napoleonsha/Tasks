@@ -1,24 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Task3
-{
-    internal class Program
+class Task3
     {
         static void Main(string[] args)
         {
-            float rub, dol, eur, uan,
-                cursDol = 90,
-                cursEur = 100,
+            float rub, dol, eur, uan, 
+                cursDol = 90, 
+                cursEur = 100, 
                 cursUan = 30;
 
             bool resConvert;
             Console.WriteLine("Введите сколько рублей хотите обменять: ");
             resConvert = float.TryParse(Console.ReadLine(), out rub);
-            if (resConvert)
+            if (resConvert) 
             {
                 dol = rub / cursDol;
                 eur = rub / cursEur;
@@ -31,4 +24,3 @@ namespace Task3
             }
         }
     }
-}

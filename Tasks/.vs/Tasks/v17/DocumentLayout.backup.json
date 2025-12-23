@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pizda\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0421#\\Tasks\\",
+  "WorkspaceRootPath": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AC24492-1C3D-44D3-9959-A80545CD3DDF}|Tasks\\Tasks.csproj|c:\\users\\pizda\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0441#\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC24492-1C3D-44D3-9959-A80545CD3DDF}|Tasks\\Tasks.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4DB9FC-F415-43EF-A532-79F5E3079AF1}|Task4\\Task4.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4DB9FC-F415-43EF-A532-79F5E3079AF1}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD784CD8-EEA0-41CE-8A94-1D119B8F537A}|Task3\\Task3.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD784CD8-EEA0-41CE-8A94-1D119B8F537A}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:32:41.066Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0421#\\Tasks\\Tasks\\Program.cs",
-              "RelativeDocumentMoniker": "Tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\pizda\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u0421#\\Tasks\\Tasks\\Program.cs",
-              "RelativeToolTip": "Tasks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task4\\Program.cs*",
+              "RelativeToolTip": "Task4\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T20:22:17.517Z",
+              "WhenOpened": "2025-12-23T20:30:53.846Z",
               "EditorCaption": ""
             }
           ]
