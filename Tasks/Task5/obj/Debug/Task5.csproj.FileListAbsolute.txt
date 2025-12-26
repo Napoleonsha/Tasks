@@ -1,0 +1,8 @@
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\bin\Debug\Task5.exe.config
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\bin\Debug\Task5.exe
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\bin\Debug\Task5.pdb
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\obj\Debug\Task5.exe
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\obj\Debug\Task5.pdb
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task5\obj\Debug\Task5.exe.config
