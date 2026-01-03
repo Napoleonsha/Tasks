@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD1510AD-0D40-4381-9AA3-DF59422C42ED}|Task5\\Task5.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1510AD-0D40-4381-9AA3-DF59422C42ED}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A1248B-05C1-4E34-BB1C-579EC92C1EEE}|Task6\\Task6.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A1248B-05C1-4E34-BB1C-579EC92C1EEE}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AC24492-1C3D-44D3-9959-A80545CD3DDF}|Tasks\\Task1.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AC24492-1C3D-44D3-9959-A80545CD3DDF}|Tasks\\Task1.csproj|solutionrelative:tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF87E52A-DE69-407C-B460-B6C342B367D7}|Task2\\Task2.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF87E52A-DE69-407C-B460-B6C342B367D7}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD784CD8-EEA0-41CE-8A94-1D119B8F537A}|Task3\\Task3.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD784CD8-EEA0-41CE-8A94-1D119B8F537A}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD1510AD-0D40-4381-9AA3-DF59422C42ED}|Task5\\Calculator.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1510AD-0D40-4381-9AA3-DF59422C42ED}|Task5\\Calculator.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB4DB9FC-F415-43EF-A532-79F5E3079AF1}|Task4\\Task4.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Tasks\\Program.cs",
-              "RelativeDocumentMoniker": "Tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Tasks\\Program.cs",
-              "RelativeToolTip": "Tasks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T21:20:25.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task2\\Program.cs",
-              "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task2\\Program.cs",
-              "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T21:20:19.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task3\\Program.cs",
-              "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task3\\Program.cs",
-              "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T21:20:12.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task4\\Program.cs",
               "RelativeDocumentMoniker": "Task4\\Program.cs",
               "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task4\\Program.cs",
               "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T21:20:07.971Z",
+              "WhenOpened": "2026-01-03T17:01:56.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task6\\Program.cs",
+              "RelativeToolTip": "Task6\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:01:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",
               "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task5\\Program.cs",
               "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T20:47:19.531Z",
+              "WhenOpened": "2025-12-26T21:20:40.42Z",
               "EditorCaption": ""
             }
           ]
