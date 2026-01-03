@@ -10,31 +10,37 @@ namespace Task6
     {
         static void Main(string[] args)
         {
-            int number, 
-                count = 0,
+            int startNumber,
+                endNumber,
                 even = 0,
-                odd = 0;
-            Console.WriteLine("Введите диапазон: ");
-            bool resConvert = int.TryParse(Console.ReadLine(), out number);
-            if (!resConvert)
+                odd = 0,
+                evenSum = 0,
+                oddSum = 0;
+            Console.WriteLine("Введите начало диапазона: ");
+            bool resConvertStart = int.TryParse(Console.ReadLine(), out startNumber);
+            Console.WriteLine("Введите конец число диапазона: ");
+            bool resConvertEnd = int.TryParse(Console.ReadLine(), out endNumber);
+            if (((resConvertStart || resConvertEnd) == false) || startNumber > endNumber)
             {
                 Console.WriteLine("Ошибка ввода данных");
             }
             else
             {
-               while (count < number)
+               while (startNumber < endNumber)
                 {
-                    count++;
-                    if (count % 2 == 0) 
+                    startNumber++;
+                    if (startNumber % 2 == 0) 
                     {
                         even++;
+                        evenSum += startNumber;
                     } 
                     else
                     {
                         odd++;
+                        oddSum += startNumber;
                     }
                 }
-                Console.WriteLine("В заданном диапазоне {0} четных чисел и {1} нечетных чисел", even,odd);
+                Console.WriteLine("В заданном диапазоне {0} четных чисел и {1} нечетных чисел, сумма четных чисел {2}, сумма нечетных чисел {3}", even,odd,evenSum, oddSum);
             }
         }
     }
