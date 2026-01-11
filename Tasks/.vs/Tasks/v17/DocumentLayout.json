@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D4B51C1-281E-4C45-985B-78165491CED3}|Task7\\Task7.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4B51C1-281E-4C45-985B-78165491CED3}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6A1248B-05C1-4E34-BB1C-579EC92C1EEE}|Task6\\Task6.csproj|c:\\users\\pizda\\desktop\\tasks\\tasks\\tasks\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A1248B-05C1-4E34-BB1C-579EC92C1EEE}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T12:44:54.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task4\\Program.cs",
               "RelativeDocumentMoniker": "Task4\\Program.cs",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task6\\Program.cs",
               "RelativeDocumentMoniker": "Task6\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Desktop\\Tasks\\Tasks\\Tasks\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",

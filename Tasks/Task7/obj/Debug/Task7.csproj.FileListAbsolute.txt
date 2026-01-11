@@ -1,0 +1,8 @@
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\bin\Debug\Task7.exe.config
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\bin\Debug\Task7.exe
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\bin\Debug\Task7.pdb
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\obj\Debug\Task7.exe
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\obj\Debug\Task7.pdb
+C:\Users\pizda\Desktop\Tasks\Tasks\Tasks\Task7\obj\Debug\Task7.exe.config
